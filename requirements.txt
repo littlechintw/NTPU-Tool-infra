@@ -1,0 +1,8 @@
+Flask
+requests
+beautifulsoup4
+timedelta
+flask_cors
+uuid
+gunicorn
+xlrd

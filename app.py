@@ -76,4 +76,4 @@ def get_status(check_id):
     return False
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False) # debug mode will let your application dangerous
